@@ -14,13 +14,13 @@ Mar 2018-Current
  - Dean’s list for 5 semester
  - Prized corporate fellowship from Taekwang, Ilju Academic honors scholarships
                   
-Aug 2021-Dec 2021
+Aug 2021-Dec 2021  
 **San Diego State University**, San Diego, U.S | exchange student
  - Major: Business Administration
 
 ## Experience
 ---
-Jan 2022 – Current
-**Amazon Web Service** , Global IT Company | Seoul, Korea
+Jan 2022 – Current  
+**Amazon Web Service** , Global IT Company | Seoul, Korea   
 Junior Account Coordinator(Internship) | ISV team
 
