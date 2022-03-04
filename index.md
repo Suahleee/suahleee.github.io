@@ -1,15 +1,20 @@
-## Suah Lee's Resume {: .text-center }
-<hi aligh="center">Material Bread</h1>
+### Suah Lee's Resume
 
 ![suahlee](https://user-images.githubusercontent.com/100741185/156727894-32b68bbe-c8cd-415a-b58b-b6521bd590ff.png)
 
+Fashion industry major with an enthusiasm for marketing, entrepreneurship, design, and branding. Through my
+own business, company experiences, and international studies I offer a diverse perspective to your company.
 
-
-You can use the [editor on GitHub](https://github.com/Suahleee/suahleee.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Suah Lee
+##Education
+---
+Mar 2018-Current  #Ewha Womans University#, Seoul, Korea | 4- year course
+                   Bachelor of Science in Clothing and Textiles (2023 Feb Expected)
+                   Minor in Entrepreneurship Joint Major (2023 Feb Expected)
+                   Dean’s list for 5 semester
+                   Prized corporate fellowship from Taekwang, Ilju Academic honors scholarships
+                  
+Aug 2021-Dec 2021 #San Diego State University#, San Diego, U.S | exchange student
+                   Major: Business Administration
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
