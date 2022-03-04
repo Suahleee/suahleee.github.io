@@ -23,20 +23,20 @@ Aug 2021-Dec 2021
 ---
 Jan 2022 – Current  
 **Amazon Web Service** , Global IT Company | Seoul, Korea   
-- Junior Account Coordinator(Internship) | ISV team  
+-Junior Account Coordinator(Internship) |ISV team  
 
 Mar– Apr, 2021
 **BORN TO SHINE**, Cosmetic Startup | Seoul, Korea
-- Freelancer Graphic Designer | Marketing Part
+-Freelancer Graphic Designer | Marketing Part  
 
 Mar- Mar, 2021
-**MLB KOREA**, Fashion Brand| Seoul, Korea
+**MLB KOREA**, Fashion Brand|Seoul, Korea
 -Contract position | Marketing Part
 
 ## Skills and Abilities
 ---
 **Communication Skills**  
-- Collaborated AI fashion project with Samsung (Fashion Capstone Project | 2021)  
+- Collaborated AI fashion project with Samsung (Fashion Capstone Project,2021)  
 - Private English Teaching for high school students for over two years  
 - Regular volunteer tour guiding at Chang-Duk Palace, Seoul (2018-Present)  
 
@@ -55,5 +55,5 @@ Mar- Mar, 2021
 - Photo editing | made fashion collection and lookbook as a project (2019)  
 
 **Language Skills**  
-- Korean | Native • English | Fluent • Chinese | Intermediate (HSK 4)  
+- Korean-Native, English-Fluent, Chinese-Intermediate (HSK 4)  
 
