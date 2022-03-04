@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
- ![suahlee](images/suahlee.jpg)
+ ![suahlee](images/suahlee.png)
 
 
 
