@@ -43,16 +43,16 @@ Mar- Mar, 2021
 **Business Skills**  
 - Attended Campus CEO IR Competition as a co-representative of university (2020)  
 - Coordinated an eco-friendly dust bag brand supported by Ewha Entrepreneur center(2020)  
-- MS Office | Moderately Proficient  
+- MS Office| Moderately Proficient  
 
 **Project Management Skills**  
 - Organized Plogging crew and made wind-breaker jacket for running (2021)  
 - Won first place at Fashion Product Planning Contest by The Korean Society of Clothing and Textiles (2021)  
 
 **Design Skills**  
-- 3D fashion CAD | selected for International Digital Fashion Contest by Society of Fashion& Textile Industry (2019)  
-- Photoshop, Illustrator, Indesign | Designed for a lot of project and promotion materials  
-- Photo editing | made fashion collection and lookbook as a project (2019)  
+- 3D fashion CAD|selected for International Digital Fashion Contest by Society of Fashion& Textile Industry (2019)  
+- Photoshop, Illustrator, Indesign|Designed for a lot of project and promotion materials  
+- Photo editing|made fashion collection and lookbook as a project (2019)  
 
 **Language Skills**  
 - Korean-Native, English-Fluent, Chinese-Intermediate (HSK 4)  
