@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
- ![Suah Lee](/assets/images/suahlee.jpg)
+ ![suahlee](images/suahlee.jpg)
 
 
 
