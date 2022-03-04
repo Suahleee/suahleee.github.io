@@ -1,4 +1,5 @@
-### Suah Lee's Resume
+#### Suah Lee's Resume
+======================
 
 ![suahlee](https://user-images.githubusercontent.com/100741185/156727894-32b68bbe-c8cd-415a-b58b-b6521bd590ff.png)
 
@@ -22,5 +23,5 @@ Aug 2021-Dec 2021
 ---
 Jan 2022 – Current  
 **Amazon Web Service** , Global IT Company | Seoul, Korea   
-Junior Account Coordinator(Internship) | ISV team
+ - Junior Account Coordinator(Internship) | ISV team
 
