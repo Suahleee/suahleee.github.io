@@ -43,7 +43,7 @@ Mar- Mar, 2021
 **Business Skills**  
 - Attended Campus CEO IR Competition as a co-representative of university (2020)  
 - Coordinated an eco-friendly dust bag brand supported by Ewha Entrepreneur center(2020)  
-- MS Office| Moderately Proficient  
+- MS Office- Moderately Proficient  
 
 **Project Management Skills**  
 - Organized Plogging crew and made wind-breaker jacket for running (2021)  
