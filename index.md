@@ -23,5 +23,5 @@ Aug 2021-Dec 2021
 ---
 Jan 2022 – Current  
 **Amazon Web Service** , Global IT Company | Seoul, Korea   
- - Junior Account Coordinator(Internship) | ISV team
+- Junior Account Coordinator(Internship) | ISV team
 
